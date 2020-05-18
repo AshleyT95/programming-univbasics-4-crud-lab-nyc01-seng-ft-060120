@@ -7,7 +7,6 @@ fruit= ["kiwi","peach","pear","grape"]
 end
 
 def add_element_to_end_of_array(array, element)
-  fruit= ["kiwi","peach","pear","grape"]
 puts array.push "#{element}"
 end
 
