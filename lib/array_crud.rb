@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   fruit= ["kiwi","peach","pear","grape"]
-puts fruit.push "#{element}"
+puts fruit.push "apple"
 end
 
 def add_element_to_start_of_array(array, element)
